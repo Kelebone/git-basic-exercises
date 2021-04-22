@@ -1,1 +1,1 @@
-This is a README.md file
+This git-basic-exercise task is powered to you by AFRICAN CODING NETWORK.
